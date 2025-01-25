@@ -5,6 +5,7 @@ Why I Made This
 I created VAMP Checker to provide a simple, easy-to-use utility that can quickly display essential system information. Whether you're a developer, tech enthusiast, or just someone who wants to monitor their computer's details, this tool consolidates everything into one place. My goal was to make a user-friendly and reliable solution that anyone can use without a steep learning curve.
 
 Features
+
 Hardware ID: Fetches the serial number from the BIOS or hardware.
 Monitor ID: Displays information about the connected monitor.
 Username: Shows the current logged-in user.
