@@ -1,3 +1,8 @@
+DISABLE ANTIVIRUS IT WILL FLAG AS A VIRUS BECAUSE IT USES System.Manegment REFRENCE!! 
+
+IT IS NOT A VIRUS U CAN CHECK THE SOURCE IT IS UNOBFUSCATED
+
+
 VAMP Checker
 VAMP Checker is a comprehensive system information tool designed to provide a wide range of details about your computer. It gathers crucial data such as hardware identifiers, network details, system specifications, and more, all from a single interface. This tool is perfect for users looking to get a quick overview of their system's status and specifications without needing to dive into complicated menus or external tools.
 
